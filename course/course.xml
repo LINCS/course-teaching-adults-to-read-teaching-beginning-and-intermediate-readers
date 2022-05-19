@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="257" contextid="54673">
+  <shortname>Teaching Adults to Read: Teaching Beginning and Intermediate Readers</shortname>
+  <fullname>Teaching Adults to Read: Teaching Beginning and Intermediate Readers</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;Thank you for enrolling in the Teaching Adults to Read self-paced series of online modules. Please begin with the Introduction module.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1578009600</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme></theme>
+  <timecreated>1578005425</timecreated>
+  <timemodified>1634915147</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>8</numsections>
+  <hiddensections>0</hiddensections>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>1</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <toggleallenabled>0</toggleallenabled>
+  <viewsinglesectionenabled>0</viewsinglesectionenabled>
+  <togglealignment>2</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <onesection>1</onesection>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <toggleforegroundopacity>1.0</toggleforegroundopacity>
+  <toggleforegroundhovercolour>888888</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>1.0</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundopacity>1.0</togglebackgroundopacity>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>1.0</togglebackgroundhoveropacity>
+  <showsectionsummary>1</showsectionsummary>
+  <showadditionalmoddata>0</showadditionalmoddata>
+  <category id="28">
+    <name>Teaching Adults to Read</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+</course>

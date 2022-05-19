@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_6Rd1tdLHiqs_course_id" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+							  http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd
+							  http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 4th Edition</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Teaching_Beginning_and_Intermediate_Adult_Readers:_Comprehension_ORG">
+    <organization identifier="Teaching_Beginning_and_Intermediate_Adult_Readers:_Comprehension_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Teaching Beginning and Intermediate Adult Readers: Comprehension</title>
+      <item identifier="Teaching_Beginning_and_Intermediate_Adult_Readers:_Comprehension_SCO" identifierref="__6Rd1tdLHiqs_course_id_RES" isvisible="true">
+        <title>Teaching Beginning and Intermediate Adult Readers: Comprehension</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Rd1tdLHiqs_course_id_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ftS1DV1xje_80_DX972_DY972_CX764_CY388.png" />
+      <file href="mobile/5vq3gfJhIku_80_DX1436_DY1436_CX718_CY538.png" />
+      <file href="mobile/5qrEuN45prT_80_DX458_DY458_CX244_CY222.png" />
+      <file href="mobile/5irFiqIMA7e_80_DX1436_DY1436_CX718_CY538.png" />
+      <file href="mobile/6kuWjAATmMj_80_DX1436_DY1436_CX718_CY538.png" />
+      <file href="mobile/6a78JygpwEP_80_DX114_DY114_CX89_CY81.png" />
+      <file href="mobile/6FZiTKH4YdT_80_DX560_DY560_CX439_CY302.png" />
+      <file href="mobile/6a78JygpwEP_80_DX112_DY112_CX78_CY71.png" />
+      <file href="meta.xml" />
+      <file href="story_content/6bx2HyRuAkQ.png" />
+      <file href="story_content/60Gx6GY36lu.png" />
+      <file href="story_content/6i4KGhGML3v.png" />
+      <file href="story_content/5yRA20tVN32.png" />
+      <file href="story_content/6kZVAGrJald.png" />
+      <file href="story_content/5qTYcSjJm30.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/TARHandouts_Comprehension_04222021_508.pdf" />
+      <file href="story_content/external_files/TARBriefERI-BARvs2-04222021_508.pdf" />
+      <file href="story_content/external_files/TARBrief_ERI-IAR_vs2_08022021_508.pdf" />
+      <file href="story_content/external_files/SCTPAlphabetics_508.pdf" />
+      <file href="story_content/external_files/Extended_Learning_Guide_Beginner_Intermediate.pdf" />
+      <file href="story_content/external_files/Development of Academic Mindsets.pdf" />
+      <file href="mobile/txt__default_6GFEsoJRaEh.png" />
+      <file href="mobile/txt__default_6nrz0NAX0J1.png" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5XfK27mVxdt.js" />
+      <file href="html5/data/js/6lqGkGuSInD.js" />
+      <file href="html5/data/js/6patpkOp6eT.js" />
+      <file href="html5/data/js/6YAn6Hkl2cu.js" />
+      <file href="html5/data/js/6cqEWT18A9C.js" />
+      <file href="html5/data/js/6BUjmCa5i95.js" />
+      <file href="html5/data/js/5tBel6OVWeX.js" />
+      <file href="html5/data/js/5jjo96ZIcjh.js" />
+      <file href="html5/data/js/6NzC7cYayRe.js" />
+      <file href="html5/data/js/6e2Yusa0JCL.js" />
+      <file href="html5/data/js/6c6GOwuWant.js" />
+      <file href="html5/data/js/6kMPDeLj0QE.js" />
+      <file href="html5/data/js/5sMKR323RWc.js" />
+      <file href="html5/data/js/6OIJ0YWR9UF.js" />
+      <file href="html5/data/js/6cOMMDcjdwB.js" />
+      <file href="html5/data/js/65SYMpnzcYh.js" />
+      <file href="html5/data/js/6RnEniHjd1H.js" />
+      <file href="html5/data/js/6e98oeAYtuu.js" />
+      <file href="html5/data/js/5WeFuBnJtSd.js" />
+      <file href="html5/data/js/6KPexoFgEAw.js" />
+      <file href="html5/data/js/6qCfARn09Fd.js" />
+      <file href="html5/data/js/657tIy7yyMz.js" />
+      <file href="html5/data/js/5yasu7w9K8K.js" />
+      <file href="html5/data/js/5UlKjjASEQJ.js" />
+      <file href="html5/data/js/5u8qsH4ZiKe.js" />
+      <file href="html5/data/js/66kOzPA87BI.js" />
+      <file href="html5/data/js/5i4ZRZNnj0t.js" />
+      <file href="html5/data/js/6PrgE6tSTE5.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6j05gaSfmjP.js" />
+      <file href="html5/data/js/6nZq8gBc2G5.js" />
+      <file href="html5/data/js/5ujWZelvxv5.js" />
+      <file href="html5/data/js/5uHuVtjYULh.js" />
+      <file href="html5/data/js/6XqnZUanWX5.js" />
+      <file href="html5/data/js/6QMD4ItVgEq.js" />
+      <file href="html5/data/js/5xY81Vhdj4S.js" />
+      <file href="html5/data/js/6CRy7FHwckE.js" />
+      <file href="html5/data/js/6LNrpkdTOgx.js" />
+      <file href="html5/data/js/68L1QHkgi79.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/5mK9rH85vKP.js" />
+      <file href="html5/data/js/5lIXhwBLGFx.js" />
+      <file href="html5/data/js/6bFAz5UpQod.js" />
+      <file href="html5/data/js/5hqRMiRZDOS.js" />
+      <file href="html5/data/js/699zwRJfqpq.js" />
+      <file href="html5/data/js/6JO6aC8YR1R.js" />
+      <file href="html5/data/js/65gyQVOMdTz.js" />
+      <file href="html5/data/js/6MhG44ZRWlF.js" />
+      <file href="html5/data/js/5tvNqPIdT2S.js" />
+      <file href="html5/data/js/6IFUYgjXRCY.js" />
+      <file href="html5/data/js/5y4VC5G2OGP.js" />
+      <file href="html5/data/js/6rB5Z2AkuM9.js" />
+      <file href="html5/data/js/6JRKxocxwMT.js" />
+      <file href="html5/data/js/5t0pVsnZInV.js" />
+      <file href="html5/data/js/6orNR0nMSl3.js" />
+      <file href="html5/data/js/64XwEX88XFd.js" />
+      <file href="html5/data/js/66LGHrmk8Is.js" />
+      <file href="html5/data/js/5sStkcRbDgo.js" />
+      <file href="html5/data/js/5kJi5o6CnuC.js" />
+      <file href="html5/data/js/6CrgHOu4v1d.js" />
+      <file href="html5/data/js/5kVN1vNbjvw.js" />
+      <file href="html5/data/js/6bwusz3dhu0.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/5cwawonF1ll.js" />
+      <file href="html5/data/js/5kdPhLJRmyv.js" />
+      <file href="html5/data/js/5jbmMM1SmFV.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

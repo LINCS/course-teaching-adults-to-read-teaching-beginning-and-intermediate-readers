@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="18144" contextid="54676" version="2020061500">
+  <blockname>search_forums</blockname>
+  <parentcontextid>54673</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>0</defaultweight>
+  <configdata></configdata>
+  <timecreated>1578005425</timecreated>
+  <timemodified>1578005425</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

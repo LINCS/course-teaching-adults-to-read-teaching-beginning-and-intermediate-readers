@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="70" moduleid="8872" modulename="scorm" contextid="54684">
+  <scorm id="70">
+    <name>Teaching Adults to Read: Beginner Comprehension</name>
+    <scormtype>local</scormtype>
+    <reference>TAR_beg_Comprehension_10152021.zip</reference>
+    <intro>&lt;p&gt;This module provides an introduction to teaching the reading component comprehension to adults at the beginning and intermediate levels.&lt;/p&gt;&lt;p&gt;This module should take about 1 hour to complete.&lt;/p&gt;&lt;p&gt;Once you click the link to launch this module, you will see two options for viewing: &lt;strong&gt;Preview&lt;/strong&gt; and &lt;strong&gt;Normal&lt;/strong&gt;. Please be sure to select the &lt;strong&gt;Normal&lt;/strong&gt; option in order to receive credit for the module.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; This 
+course will open in a separate browser window. Additionally, all 
+hyperlinks within the course will also open in a separate browser 
+window.&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <version>SCORM_1.3</version>
+    <maxgrade>100</maxgrade>
+    <grademethod>1</grademethod>
+    <whatgrade>0</whatgrade>
+    <maxattempt>0</maxattempt>
+    <forcecompleted>0</forcecompleted>
+    <forcenewattempt>0</forcenewattempt>
+    <lastattemptlock>0</lastattemptlock>
+    <masteryoverride>1</masteryoverride>
+    <displayattemptstatus>1</displayattemptstatus>
+    <displaycoursestructure>0</displaycoursestructure>
+    <updatefreq>0</updatefreq>
+    <sha1hash>186b0624c19b07cb1cda8626b06b8d30d0fa83ae</sha1hash>
+    <md5hash></md5hash>
+    <revision>12</revision>
+    <launch>159</launch>
+    <skipview>0</skipview>
+    <hidebrowse>0</hidebrowse>
+    <hidetoc>3</hidetoc>
+    <nav>0</nav>
+    <navpositionleft>-100</navpositionleft>
+    <navpositiontop>-100</navpositiontop>
+    <auto>0</auto>
+    <popup>1</popup>
+    <options>scrollbars=0,directories=0,location=0,menubar=0,toolbar=0,status=0</options>
+    <width>800</width>
+    <height>600</height>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1634310177</timemodified>
+    <completionstatusrequired>4</completionstatusrequired>
+    <completionscorerequired>0</completionscorerequired>
+    <completionstatusallscos>0</completionstatusallscos>
+    <displayactivityname>1</displayactivityname>
+    <autocommit>0</autocommit>
+    <scoes>
+      <sco id="158">
+        <manifest>_6Rd1tdLHiqs_course_id</manifest>
+        <organization></organization>
+        <parent>/</parent>
+        <identifier>Teaching_Beginning_and_Intermediate_Adult_Readers:_Comprehension_ORG</identifier>
+        <launch></launch>
+        <scormtype></scormtype>
+        <title>Teaching Beginning and Intermediate Adult Readers: Comprehension</title>
+        <sortorder>1</sortorder>
+        <sco_datas>
+          <sco_data id="197">
+            <name>choice</name>
+            <value>1</value>
+          </sco_data>
+          <sco_data id="198">
+            <name>flow</name>
+            <value>1</value>
+          </sco_data>
+        </sco_datas>
+        <seq_ruleconds>
+        </seq_ruleconds>
+        <seq_rolluprules>
+        </seq_rolluprules>
+        <seq_objectives>
+        </seq_objectives>
+        <sco_tracks>
+        </sco_tracks>
+      </sco>
+      <sco id="159">
+        <manifest>_6Rd1tdLHiqs_course_id</manifest>
+        <organization>Teaching_Beginning_and_Intermediate_Adult_Readers:_Comprehension_ORG</organization>
+        <parent>Teaching_Beginning_and_Intermediate_Adult_Readers:_Comprehension_ORG</parent>
+        <identifier>Teaching_Beginning_and_Intermediate_Adult_Readers:_Comprehension_SCO</identifier>
+        <launch>index_lms.html</launch>
+        <scormtype>sco</scormtype>
+        <title>Teaching Beginning and Intermediate Adult Readers: Comprehension</title>
+        <sortorder>2</sortorder>
+        <sco_datas>
+          <sco_data id="199">
+            <name>isvisible</name>
+            <value>true</value>
+          </sco_data>
+          <sco_data id="200">
+            <name>parameters</name>
+            <value></value>
+          </sco_data>
+        </sco_datas>
+        <seq_ruleconds>
+        </seq_ruleconds>
+        <seq_rolluprules>
+        </seq_rolluprules>
+        <seq_objectives>
+        </seq_objectives>
+        <sco_tracks>
+        </sco_tracks>
+      </sco>
+    </scoes>
+  </scorm>
+</activity>
